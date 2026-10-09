@@ -56,7 +56,7 @@ const projects = [
             "CSS",
         ],
         type: "Productivity",
-        liveLink: "https://garg-manasveni.github.io/copy-flow/",
+        liveLink: "https://copy-flow-d94bhdcji-garg-manasvenis-projects.vercel.app/",
         githubLink:
             "https://github.com/garg-manasveni/copy-flow",
         featured: false,
